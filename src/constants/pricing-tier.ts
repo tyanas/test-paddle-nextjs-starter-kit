@@ -16,7 +16,7 @@ export const PricingTier: Tier[] = [
     description: 'Ideal for individuals who want to get started with simple design tasks.',
     features: ['1 workspace', 'Limited collaboration', 'Export to PNG and SVG'],
     featured: false,
-    priceId: { month: 'pri_01hsxyh9txq4rzbrhbyngkhy46', year: 'pri_01hsxyh9txq4rzbrhbyngkhy46' },
+    priceId: { month: 'pri_01jvkxendcqgfmb1bsab1cb8r2', year: 'pri_01jvkxfkt5q66ea66tck84e8mc' },
   },
   {
     name: 'Pro',
